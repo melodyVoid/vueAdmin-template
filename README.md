@@ -40,3 +40,6 @@ If you want router permission && generate menu by user role , you can use this b
 
 ## License
 [MIT](https://github.com/PanJiaChen/vueAdmin-template/blob/master/LICENSE) license.
+
+
+# 修改 readme
